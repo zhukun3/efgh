@@ -1,2 +1,3 @@
-# EasyGWAS
-A simple and fasta python package for population GWAS analysis and visualization
+# efgh
+Easy and fast GWAS-haplotype integrated python API![Uploading image.png…]()
+
